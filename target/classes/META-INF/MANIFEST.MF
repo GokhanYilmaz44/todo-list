@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: todolist
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mert
+Implementation-Vendor-Id: com.todolist
+Build-Jdk: 1.8.0_31
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/todolist
+Created-By: Maven Integration for Eclipse
+
